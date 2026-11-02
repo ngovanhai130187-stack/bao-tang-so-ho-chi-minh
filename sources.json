@@ -1,0 +1,11 @@
+{
+  "title": "Bảo tàng số Chủ tịch Hồ Chí Minh – Phường Bình Quới",
+  "version": "1.0.0",
+  "sources": [
+    {"name":"Bảo tàng Hồ Chí Minh – Giới thiệu trưng bày thường xuyên","url":"https://baotanghochiminh.vn/"},
+    {"name":"Cổng thông tin Hồ Chí Minh – Tiểu sử Chủ tịch Hồ Chí Minh (1890–1969)","url":"https://hochiminh.vn/cuoc-doi-su-nghiep/tieu-su-ho-chi-minh/tieu-su-chu-tich-ho-chi-minh-1890-1969-9"},
+    {"name":"Bảo tàng Hồ Chí Minh – Biên niên tiểu sử","url":"https://baotanghochiminh.vn/danh-sach-bien-nien-tieu-su/p-369.htm"},
+    {"name":"Cổng thông tin Hồ Chí Minh – Quá trình viết Di chúc","url":"https://hochiminh.vn/hoc-va-lam-theo-bac/di-chuc/qua-trinh-chu-tich-ho-chi-minh-viet-di-chuc-va-viec-cong-bo-di-chuc-cua-nguoi-110"}
+  ],
+  "editorial_note": "Nội dung là giới thiệu khái quát, cần được đơn vị chuyên môn rà soát, bổ sung chú thích và duyệt trước khi sử dụng chính thức. Hình trong giao diện 3D là mô hình minh họa, không phải ảnh tư liệu lịch sử."
+}
